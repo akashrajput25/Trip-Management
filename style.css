@@ -1,0 +1,22 @@
+*
+{
+    margin: 0px;
+    padding:0px;
+    margin: auto;
+}
+.container
+{
+    max-width: 80%;
+    background-color: #c0c0c0;
+    padding: 30px;
+   box-sizing: border-box;
+   
+}
+.container h3 ,p{
+    text-align: center;
+}
+
+input{
+    width:80%;
+    
+}
